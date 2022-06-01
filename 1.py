@@ -1,7 +1,7 @@
 
 b = int(input(">비밀번호 : "))
 
-if b > 1000:
+if b > 10000:
   print("성공입니다.")
 
 else:
